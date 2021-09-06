@@ -1,3 +1,3 @@
 # Java-Basic-Programs
-Programs and Demonstration Code Based On JAVA
+Programs and Demonstration Code in JAVA
 This repository consists of java tutorial programs and implementation.
